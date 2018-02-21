@@ -6,6 +6,7 @@ arquivo de texto conforme especificação) e possibilita a execução de alguns 
   Após compilado, o programa deve ser usado da seguinte forma: 
 ```
   ./main -*algoritmo* -*cálculo* *grafo*
+```
 
 ## algoritmos disponíveis
   Os algoritmos disponíveis são **busca em largura** (opcção *-bfs*) e **busca em profundidade** (opção *-dfs*).
