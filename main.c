@@ -10,8 +10,7 @@
     -grafo      (caminho para o arquivo .in onde está o grafo). */
 
 /*   
-    AUTOR: Daniel Matos de Castro
-    NÚMERO DE MATRÌCULA: 00281955 
+    AUTOR: Daniel Matos de Castro 
 */
 
 int main(int argc, char *argv[]){
