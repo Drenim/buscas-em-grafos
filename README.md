@@ -9,7 +9,7 @@ arquivo de texto conforme especificação) e possibilita a execução de alguns 
 ```
 
 ## Algoritmos disponíveis
-  Os algoritmos disponíveis são **busca em largura** (opcção *-bfs*) e **busca em profundidade** (opção *-dfs*).
+  Os algoritmos disponíveis são **busca em largura** (opção *-bfs*) e **busca em profundidade** (opção *-dfs*).
   
 ## Cálculos disponíveis
   É possível obter o número de componentes conexas do grafo (opção *-c*) e calcular a distância de cada vértice ao vértice 0 
