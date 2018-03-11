@@ -1,4 +1,4 @@
-# buscas-em-grafos
+# Buscas em grafos
   Trabalho da disciplina Teoria de Grafos e Análise Combinatória. O programa efetua a leitura de um grafo (armazenado em um 
 arquivo de texto conforme especificação) e possibilita a execução de alguns algoritmos em tal grafo.
 
